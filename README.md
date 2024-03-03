@@ -1,4 +1,4 @@
-What is Bohemia Darknet?
+<h1>What is Bohemia Darknet?</h1>
 Bohemia Darknet, also known as Bohemia Market, is a web-based marketplace that operates on the dark web. It is one of the many markets where users can buy and sell a wide range of illegal products and services anonymously.
 
 Bohemia Darknet can be accessed through the Bohemia Market Onion link, which is a unique address used to access the darknet market. This link provides a secure and encrypted connection to the Bohemia Market website, ensuring the privacy and anonymity of its users.
